@@ -18,8 +18,8 @@ health = 50
 energy = 50
 
 #Starting population change stats
-base_birth_rate = 0.01
-base_death_rate = 0.008
+base_birth_rate = 0.005
+base_death_rate = 0.012
 
 #Q-Learning
 learning_rate = 0.1
